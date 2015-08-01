@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceEx</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_file">Download File</string>
+</resources>
